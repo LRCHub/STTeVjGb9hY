@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "グラスとラムレーズン",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-02-08T11:56:47.972158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グラスとラムレーズン",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_グラスとラムレーズン_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グラスとラムレーズン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_グラスとラムレーズン_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グラスとラムレーズン (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_グラスとラムレーズン_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グラスとラムレーズン - Glass To Rum Raisin",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_グラスとラムレーズン_-_Glass_To_Rum_Raisin_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グラスとラムレーズン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_グラスとラムレーズン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "グラスとラムレーズン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_グラスとラムレーズン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "グラスとラムレーズン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_グラスとラムレーズン_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
